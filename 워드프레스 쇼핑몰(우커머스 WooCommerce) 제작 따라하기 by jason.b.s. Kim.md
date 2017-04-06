@@ -1,10 +1,10 @@
 ### 워드프레스 쇼핑몰(우커머스 WooCommerce) 제작 따라하기 by jason.b.s. Kim
 
-[1. 플러그인](https://www.youtube.com/watch?v=hQUwC-WOXoM)     
-[2. 우커머스 셋팅](https://www.youtube.com/watch?v=k0_XifNvIHo)     
-[3. 워드프레스 셋팅](https://www.youtube.com/watch?v=gwWnVIomlJs)     
-[4. 기타 플러그인 셋팅 - 이메일 전송](https://www.youtube.com/watch?v=Fwed3w_laZU)     
-[4. 기타 플러그인 셋팅 - 상품 순서 변경](https://www.youtube.com/watch?v=Sqns0azFesE)     
+[1. 플러그인](https://www.youtube.com/watch?v=hQUwC-WOXoM){: target="_blank" }     
+[2. 우커머스 셋팅](https://www.youtube.com/watch?v=k0_XifNvIHo){: target="_blank" }     
+[3. 워드프레스 셋팅](https://www.youtube.com/watch?v=gwWnVIomlJs){: target="_blank" }     
+[4. 기타 플러그인 셋팅 - 이메일 전송](https://www.youtube.com/watch?v=Fwed3w_laZU){: target="_blank" }     
+[4. 기타 플러그인 셋팅 - 상품 순서 변경](https://www.youtube.com/watch?v=Sqns0azFesE){: target="_blank" }     
 [4. 기타 플러그인 셋팅 - 마이 아카운트 위젯](https://www.youtube.com/watch?v=fvdDCyCdnG0)     
 [4. 기타 플러그인 셋팅 - 포인트](https://www.youtube.com/watch?v=u6ExJl5SHqU)     
 [4. 기타 플러그인 셋팅 - 소셜 공유(젯팩)](https://www.youtube.com/watch?v=kK-P9sDLYlE)     
